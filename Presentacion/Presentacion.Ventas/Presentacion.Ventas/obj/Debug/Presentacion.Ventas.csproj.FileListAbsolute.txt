@@ -172,3 +172,6 @@ E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final
 A:\Users\Hugo Saldana\Desktop\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Presentacion.Ventas.Frutas.exe.config
 A:\Users\Hugo Saldana\Desktop\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.exe
 A:\Users\Hugo Saldana\Desktop\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Presentacion.Ventas.Frutas.exe.config
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.exe
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.pdb

@@ -11,4 +11,5 @@ namespace Ventas.Utilitarios
             public static Int16 NroReporte = 0;
             public static Int64 id = 0;
     }
+
 }

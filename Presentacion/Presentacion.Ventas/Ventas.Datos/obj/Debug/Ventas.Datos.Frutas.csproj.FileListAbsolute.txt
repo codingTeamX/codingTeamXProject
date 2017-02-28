@@ -1,0 +1,40 @@
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll.config
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.dll
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.xml
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.csprojResolveAssemblyReference.cache
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.dll
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.pdb
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll.config
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.dll
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.xml
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.csprojResolveAssemblyReference.cache
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.dll
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.pdb
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll.config
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.dll
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.xml
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.csprojResolveAssemblyReference.cache
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.dll
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll.config
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.dll
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.xml
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.csprojResolveAssemblyReference.cache
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll.config
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\bin\Debug\EntityFramework.xml
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.csprojResolveAssemblyReference.cache
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Datos.Frutas\obj\Debug\Ventas.Datos.Frutas.pdb

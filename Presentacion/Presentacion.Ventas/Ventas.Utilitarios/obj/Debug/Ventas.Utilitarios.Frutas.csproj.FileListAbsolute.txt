@@ -1,0 +1,21 @@
+H:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.csprojResolveAssemblyReference.cache
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.csprojResolveAssemblyReference.cache
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.dll
+G:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.pdb
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.csprojResolveAssemblyReference.cache
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.dll
+F:\HDDVZ\sistemas de Informacion III\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.csprojResolveAssemblyReference.cache
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.csprojResolveAssemblyReference.cache
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.pdb

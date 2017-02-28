@@ -1,0 +1,72 @@
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.csprojResolveAssemblyReference.cache
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.dll.config
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\EntityFramework.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\bin\Debug\EntityFramework.xml
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.dll.config
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\EntityFramework.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\EntityFramework.xml
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.csprojResolveAssemblyReference.cache
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.dll.config
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Negocio.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\EntityFramework.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Datos.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Datos.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\bin\Debug\EntityFramework.xml
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.csprojResolveAssemblyReference.cache
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio.Frutas\obj\Debug\Ventas.Negocio.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.dll.config
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\EntityFramework.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Datos.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Utilitarios.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Datos.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\EntityFramework.xml
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.csprojResolveAssemblyReference.cache
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.dll.config
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\EntityFramework.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Datos.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Datos.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\EntityFramework.xml
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.csprojResolveAssemblyReference.cache
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.Frutas.pdb
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.dll.config
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.dll
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Negocio.Frutas.pdb
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\EntityFramework.dll
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Datos.Frutas.dll
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Datos.Frutas.pdb
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\bin\Debug\EntityFramework.xml
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.csprojResolveAssemblyReference.cache
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.Frutas.dll
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Negocio\obj\Debug\Ventas.Negocio.Frutas.pdb

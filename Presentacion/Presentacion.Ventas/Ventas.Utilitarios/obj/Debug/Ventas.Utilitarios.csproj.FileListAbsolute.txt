@@ -1,0 +1,18 @@
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final WindowsForm\proyecto final\Proyecto.Sistemas.InformacionIII\Presentacion.Frutas\Presentacion.Ventas.Frutas\Ventas.Utilitarios.Frutas\obj\Debug\Ventas.Utilitarios.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.dll
+G:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.csprojResolveAssemblyReference.cache
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.dll
+E:\HDDV\Sistemas Informacion III\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.dll
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.csprojResolveAssemblyReference.cache
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.dll
+E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.pdb

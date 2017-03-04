@@ -187,3 +187,6 @@ E:\Temporal\Clone\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentaci
 C:\Users\Ivan\Desktop\PROYECTO GIT\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Presentacion.Ventas.Frutas.exe.config
 C:\Users\Ivan\Desktop\PROYECTO GIT\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.exe
 C:\Users\Ivan\Desktop\PROYECTO GIT\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.pdb
+C:\Users\LABB-DOCENTE\Source\Repos\NewRepo\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Presentacion.Ventas.Frutas.exe.config
+C:\Users\LABB-DOCENTE\Source\Repos\NewRepo\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.exe
+C:\Users\LABB-DOCENTE\Source\Repos\NewRepo\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.pdb

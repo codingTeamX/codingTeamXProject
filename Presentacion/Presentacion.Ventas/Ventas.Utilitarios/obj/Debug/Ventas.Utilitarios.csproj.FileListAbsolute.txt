@@ -16,3 +16,8 @@ E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final
 E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.csprojResolveAssemblyReference.cache
 E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.dll
 E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.csprojResolveAssemblyReference.cache
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.Utilitarios\obj\Debug\Ventas.Utilitarios.Frutas.pdb

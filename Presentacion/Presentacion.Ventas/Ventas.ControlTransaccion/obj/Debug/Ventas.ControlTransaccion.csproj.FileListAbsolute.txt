@@ -40,3 +40,10 @@ E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final
 E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\obj\Debug\Ventas.ControlTransaccion.csprojResolveAssemblyReference.cache
 E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\obj\Debug\Ventas.ControlTransaccion.dll
 E:\Hugo\Sistemas Informacion III\DATA\windows form\Proyecto Final\Proyecto Final\Proyecto Final Sistemas Informacion III\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\obj\Debug\Ventas.ControlTransaccion.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\bin\Debug\Ventas.ControlTransaccion.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\bin\Debug\Ventas.ControlTransaccion.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\bin\Debug\Ventas.Datos.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\bin\Debug\Ventas.Datos.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\obj\Debug\Ventas.ControlTransaccion.csprojResolveAssemblyReference.cache
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\obj\Debug\Ventas.ControlTransaccion.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Ventas.ControlTransaccion\obj\Debug\Ventas.ControlTransaccion.pdb

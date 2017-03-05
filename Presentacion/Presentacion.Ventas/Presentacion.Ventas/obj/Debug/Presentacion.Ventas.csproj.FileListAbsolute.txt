@@ -190,3 +190,34 @@ C:\Users\Ivan\Desktop\PROYECTO GIT\codingTeamXProject\Presentacion\Presentacion.
 C:\Users\LABB-DOCENTE\Source\Repos\NewRepo\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Presentacion.Ventas.Frutas.exe.config
 C:\Users\LABB-DOCENTE\Source\Repos\NewRepo\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.exe
 C:\Users\LABB-DOCENTE\Source\Repos\NewRepo\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Presentacion.Ventas.Frutas.exe
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Presentacion.Ventas.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\EntityFramework.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.ControlTransaccion.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.Datos.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.Negocio.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.Utilitarios.Frutas.dll
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.ControlTransaccion.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.Datos.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.Negocio.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\Ventas.Utilitarios.Frutas.pdb
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\bin\Debug\EntityFramework.xml
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.csprojResolveAssemblyReference.cache
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormCarbohidrato.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormVenta.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormLote.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormProducto.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormEmpleado.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormCliente.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormGrasa.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormProteina.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormCargo.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormContrato.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormMarca.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormProveedor.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormCiudad.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormPais.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormPrincipal.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.FormRubro.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.Frutas.Properties.Resources.resources
+A:\Users\Hugo Saldana\Desktop\codingTeamXProject\Presentacion\Presentacion.Ventas\Presentacion.Ventas\obj\Debug\Presentacion.Ventas.csproj.GenerateResource.Cache

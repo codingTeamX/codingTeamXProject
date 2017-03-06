@@ -250,7 +250,7 @@
             this.tabControl1.Location = new System.Drawing.Point(12, 64);
             this.tabControl1.Name = "tabControl1";
             this.tabControl1.SelectedIndex = 0;
-            this.tabControl1.Size = new System.Drawing.Size(615, 178);
+            this.tabControl1.Size = new System.Drawing.Size(615, 260);
             this.tabControl1.SizeMode = System.Windows.Forms.TabSizeMode.Fixed;
             this.tabControl1.TabIndex = 14;
             // 
@@ -265,7 +265,7 @@
             this.tabPage1.Location = new System.Drawing.Point(4, 22);
             this.tabPage1.Name = "tabPage1";
             this.tabPage1.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage1.Size = new System.Drawing.Size(607, 152);
+            this.tabPage1.Size = new System.Drawing.Size(607, 234);
             this.tabPage1.TabIndex = 0;
             this.tabPage1.Text = "Gestionar Datos";
             // 
@@ -279,7 +279,7 @@
             this.tabPage2.Location = new System.Drawing.Point(4, 22);
             this.tabPage2.Name = "tabPage2";
             this.tabPage2.Padding = new System.Windows.Forms.Padding(3);
-            this.tabPage2.Size = new System.Drawing.Size(607, 152);
+            this.tabPage2.Size = new System.Drawing.Size(607, 234);
             this.tabPage2.TabIndex = 1;
             this.tabPage2.Text = "Gestionar Empleados";
             // 
@@ -293,7 +293,7 @@
             this.tabPage3.Controls.Add(this.btn_vitamina);
             this.tabPage3.Location = new System.Drawing.Point(4, 22);
             this.tabPage3.Name = "tabPage3";
-            this.tabPage3.Size = new System.Drawing.Size(607, 152);
+            this.tabPage3.Size = new System.Drawing.Size(607, 234);
             this.tabPage3.TabIndex = 2;
             this.tabPage3.Text = "Gestionar Producto";
             // 
@@ -318,7 +318,7 @@
             this.tabPage4.Controls.Add(this.btn_lote);
             this.tabPage4.Location = new System.Drawing.Point(4, 22);
             this.tabPage4.Name = "tabPage4";
-            this.tabPage4.Size = new System.Drawing.Size(607, 152);
+            this.tabPage4.Size = new System.Drawing.Size(607, 234);
             this.tabPage4.TabIndex = 3;
             this.tabPage4.Text = "Gestionar Ventas";
             // 
@@ -330,7 +330,7 @@
             this.tabPage5.Controls.Add(this.btn_proveedor);
             this.tabPage5.Location = new System.Drawing.Point(4, 22);
             this.tabPage5.Name = "tabPage5";
-            this.tabPage5.Size = new System.Drawing.Size(607, 152);
+            this.tabPage5.Size = new System.Drawing.Size(607, 234);
             this.tabPage5.TabIndex = 4;
             this.tabPage5.Text = "Gestionar Clientes y Proveedores";
             // 
@@ -339,7 +339,7 @@
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.White;
-            this.ClientSize = new System.Drawing.Size(639, 254);
+            this.ClientSize = new System.Drawing.Size(639, 336);
             this.Controls.Add(this.tabControl1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.SizableToolWindow;
             this.MaximizeBox = false;

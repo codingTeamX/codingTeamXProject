@@ -357,8 +357,8 @@ namespace Presentacion.Ventas
                 {
                     if (!existeProductoLoteDuplicado(int.Parse(dg1.CurrentRow.Cells["idProducto"].Value.ToString()), int.Parse(dg1.CurrentRow.Cells["idLoteEntrega"].Value.ToString())))
                     {
-                        lb1.Items.Add(dg1.CurrentRow.Cells["idProducto"].Value);
-                        lb2.Items.Add(dg1.CurrentRow.Cells["idLoteEntrega"].Value);
+                        lb1.Items.Add(dg1.CurrentRow.Cells["idLoteEntrega"].Value);
+                        lb2.Items.Add(dg1.CurrentRow.Cells["idProducto"].Value); 
                         lb3.Items.Add(dg1.CurrentRow.Cells["Cantidad"].Value);
                         cont++;
                     }
